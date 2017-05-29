@@ -18,7 +18,7 @@ mc:
   z_center: 0
   radius: 16
   clickable_links: true
-  clickable_links_tellraw: false
+  clickable_links_tellraw: true
 nc:
   y_offset: 20
   allow_anonymous: true
