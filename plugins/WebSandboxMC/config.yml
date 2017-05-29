@@ -25,6 +25,7 @@ nc:
   allow_break_place_blocks: true
   unbreakable_blocks:
   - BEDROCK
+  - CHEST
   allow_signs: true
   allow_chatting: true
   see_chat: true
