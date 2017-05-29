@@ -1,6 +1,6 @@
 http:
   port: 4081
-  publicURL: http://localhost:4081/
+  publicURL: https://netcraft.beerprojects.com/
   takeover: false
   unbind_method: console.getServerConnection.b
 mc:
