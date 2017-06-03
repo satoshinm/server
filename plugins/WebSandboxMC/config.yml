@@ -5,6 +5,7 @@ http:
   unbind_method: console.getServerConnection.b
 mc:
   debug: false
+  netty_log_info: false
   use_permissions: false
   entity: Sheep
   entity_custom_names: true
