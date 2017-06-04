@@ -14,9 +14,9 @@ mc:
   entity_move_sandbox: true
   entity_die_disconnect: false
   world: ''
-  x_center: 0
+  x_center: 16
   y_center: 75
-  z_center: 0
+  z_center: 20
   radius: 16
   clickable_links: true
   clickable_links_tellraw: true
