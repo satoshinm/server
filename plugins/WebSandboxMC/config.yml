@@ -16,7 +16,7 @@ mc:
   world: ''
   x_center: 16
   y_center: 75
-  z_center: 20
+  z_center: 40
   radius: 16
   clickable_links: true
   clickable_links_tellraw: true
