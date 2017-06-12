@@ -16,13 +16,14 @@ mc:
   world: ''
   x_center: 16
   y_center: 75
-  z_center: 40
+  z_center: 50
   radius: 16
   clickable_links: true
   clickable_links_tellraw: true
 nc:
   y_offset: 20
   allow_anonymous: true
+  check_ip_bans: true
   allow_break_place_blocks: true
   unbreakable_blocks:
   - BEDROCK
@@ -31,5 +32,6 @@ nc:
   allow_chatting: true
   see_chat: true
   see_players: true
+  creative_mode: false
   blocks_to_web_override: {}
   warn_missing_blocks_to_web: true
