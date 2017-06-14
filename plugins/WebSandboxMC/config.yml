@@ -32,6 +32,7 @@ nc:
   allow_chatting: true
   see_chat: true
   see_players: true
+  see_time: true
   creative_mode: false
   blocks_to_web_override: {}
   warn_missing_blocks_to_web: true
