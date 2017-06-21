@@ -118,7 +118,7 @@ carpentersblocks/CarpentersBlocksCachedResources.zip
 denseores-1.6.2.jar
 extrautilities-1.2.12.jar
 fastcraft-1.23.jar
-forestry_1.7.10-4.2.15.63.jar
+forestry_1.7.10-4.2.16.64.jar
 funky-locomotion-1.7.10-beta-7.jar
 gendustry-1.6.3.132-mc1.7.10.jar
 iChunUtil-4.2.2.jar
