@@ -121,7 +121,7 @@ fastcraft-1.23.jar
 forestry_1.7.10-4.2.16.64.jar
 funky-locomotion-1.7.10-beta-7.jar
 gendustry-1.6.3.132-mc1.7.10.jar
-iChunUtil-4.2.2.jar
+iChunUtil-4.2.3.jar
 ic2
 ic2/EJML-core-0.26.jar
 immersiveintegration-0.6.8.jar
