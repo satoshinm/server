@@ -111,7 +111,7 @@ Wawla-1.0.5.120.jar
 appliedenergistics2-rv3-beta-6.jar
 bdlib-1.9.4.109-mc1.7.10.jar
 binnie-mods-2.0-pre14.jar
-buildcraft-7.1.16.jar
+buildcraft-7.1.22.jar
 buildcraft-compat-7.1.5.jar
 carpentersblocks
 carpentersblocks/CarpentersBlocksCachedResources.zip
