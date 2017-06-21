@@ -131,7 +131,7 @@ journeymap-1.7.10-5.1.4p1-unlimited.jar
 logisticspipes-0.9.3.126.jar
 magicbees-1.7.10-2.4.3.jar
 mcjtylib-1.8.1.jar
-mystcraft-1.7.10-0.12.3.02.jar
+mystcraft-1.7.10-0.12.3.04.jar
 natura-1.7.10-2.2.0.1.jar
 neiaddons-1.12.14.40-mc1.7.10.jar
 railcraft
