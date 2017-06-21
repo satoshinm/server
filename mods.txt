@@ -57,7 +57,7 @@ Jabba-1.2.2_1.7.10.jar
 Mantle-1.7.10-0.3.2b.jar
 MineFactoryReloaded-[1.7.10]2.8.1-174.jar
 MineTweaker3-1.7.10-3.0.10B.jar
-ModTweaker2-0.9.5.jar
+ModTweaker2-0.9.6.jar
 Morpheus-1.7.10-1.6.21.jar
 NEIIntegration-MC1.7.10-1.1.2.jar
 NetherOres-[1.7.10]2.3.1-22.jar
