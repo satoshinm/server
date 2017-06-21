@@ -116,6 +116,7 @@ buildcraft-compat-7.1.5.jar
 carpentersblocks
 carpentersblocks/CarpentersBlocksCachedResources.zip
 denseores-1.6.2.jar
+extrabiomesxl_1.7.10-3.16.4.jar
 extrautilities-1.2.12.jar
 fastcraft-1.23.jar
 forestry_1.7.10-4.2.16.64.jar
