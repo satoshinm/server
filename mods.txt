@@ -25,7 +25,7 @@ BrandonsCore-1.0.0.12.jar
 Carpenter's Blocks v3.3.8 - MC 1.7.10.jar
 ChickenChunks-1.7.10-1.3.4.19-universal.jar.disabled
 Chisel-2.9.5.11.jar
-CoFHCore-[1.7.10]3.1.3-327.jar
+CoFHCore-[1.7.10]3.1.4-329.jar
 CoFHLib-[1.7.10]1.1.2-182.jar
 CodeChickenCore-1.7.10-1.0.7.47-universal.jar
 ComputerCraft1.75.jar
@@ -100,8 +100,8 @@ Thaumcraft-1.7.10-4.2.3.5.jar
 ThaumicExploration-1.7.10-1.1-53.jar
 ThaumicTinkerer-2.5-1.7.10-512.jar
 ThermalDynamics-[1.7.10]1.2.0-171.jar
-ThermalExpansion-[1.7.10]4.1.3-246.jar
-ThermalFoundation-[1.7.10]1.2.5-115.jar
+ThermalExpansion-[1.7.10]4.1.5-248.jar
+ThermalFoundation-[1.7.10]1.2.6-118.jar
 TiCTooltips-mc1.7.10-1.2.5.jar
 Translocator-1.7.10-1.1.2.16-universal.jar
 WR-CBE-1.7.10-1.4.1.9-universal.jar
