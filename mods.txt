@@ -12,7 +12,7 @@ AOBD-2.9.2.jar
 AdvancedSolarPanel-1.7.10-3.5.1.jar
 AgriCraft-1.7.10-1.5.0.jar
 Avaritia-1.11.jar
-BiblioCraft[v1.11.5][MC1.7.10].jar
+BiblioCraft[v1.11.7][MC1.7.10].jar
 BiblioWoods[BiomesOPlenty][v1.9].jar
 BiblioWoods[Forestry][v1.7].jar
 BiblioWoods[Natura][v1.5].jar
