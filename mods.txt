@@ -44,6 +44,7 @@ FTBTweaks-1.0.2.jar
 FTBUtilities-1.7.10-1.0.18.3.jar
 FastLeafDecay-1.7.10-1.4.jar
 Forbidden Magic-1.7.10-0.575.jar
+ForgottenNature_1.7.19old.jar
 GraviSuite-1.7.10-2.0.3.jar
 Guide-API-1.7.10-1.0.1-20.jar
 HatStand-4.0.0.jar
