@@ -1,3 +1,8 @@
+**Update: closed, this server ran from 2017-05-28 to 2017-06-28
+as [Satoshi's Survival and Sandbox Server](https://forums.glowstone.net/topic/64/satoshi-s-survival-and-sandbox-server). No longer operational, archived here for posterity.**
+
+---
+
 # server
 
 Server configuration files for netcraft.beerprojects.com, hosted at:
